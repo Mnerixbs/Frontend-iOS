@@ -1,0 +1,140 @@
+@font-face{
+    font-family: BJ-regular;
+    src: url(../fonts/BaiJamjuree-Regular.ttf);
+}
+@font-face{
+    font-family: BJ-Bold;
+    src: url(../fonts/BaiJamjuree-SemiBold.ttf);
+}
+.Strong-Cyan{
+    color:  #26BAA4;
+}
+.Light-blue{
+    color: #6073FF;
+}
+.Grayish-blue-dark{
+    color: #4B545C;
+}
+.Grayish-blue{
+    color: #9EABB1;
+}
+.header {
+    background-image: linear-gradient( rgb(255 255 255 / 0%), rgb(255 255 255) ), url(../images/bg-header-desktop.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+}
+
+.header img{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+.header h1{
+    padding-bottom: 1rem;
+    color: #636161;
+    font-family: BJ-Bold;    
+}
+.header p{
+    padding-bottom: 1rem;
+    color: #a0a0a0;
+}
+.btn{    
+    border-radius: 90px;
+    margin: 5px;
+    width: 170px;
+}
+
+.btn-success{
+    background-color: #26bba5 ;
+    color: white;
+    border-color: transparent;
+    box-shadow: 2px 2px 2px 2px #419885;
+}
+.btn-info{
+    background-color: #6174ff ;
+    color: white;
+    border-color: transparent;
+    box-shadow: 2px 2px 2px 2px #5261d8;
+}
+
+.btn-success:hover{
+    background-color: #5dccbb;
+    box-shadow: 2px 2px 2px 2px  #5dccbb;
+    border-color: transparent;
+}
+
+.btn-info:hover{
+    background-color: #8896ff;
+    box-shadow: 2px 2px 2px 2px  #8896ff;
+    border-color: transparent;
+    color: white;
+}
+
+.main h1{
+    color: #4c4b4b;
+ }
+ .main p{
+     color: #a0a0a0;
+ }
+.mac .container{
+    max-width: 100%;
+   
+}
+.mac{
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+.mac img{
+    margin-left: -40px;
+}
+.mac h4{
+    color: #4c4b4b;
+}
+.mac p{
+    color: #a0a0a0;
+}
+.ipad{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.previews{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.previews img{    
+    padding-bottom: 3rem;
+}
+.previews p{
+    color: #a0a0a0;
+}
+.previews h5{
+    color: #4c4b4b;
+}
+.compani{
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+.clip{
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+.clip h1{
+    color: #4c4b4b;
+ }
+ .clip p{
+     color: #a0a0a0;
+ }
+@media (max-width: 768px) { 
+    .mac img{
+        margin-left: 0px;
+    }
+    
+    .mac h4 ,p{
+        text-align: center;
+    }
+    .spacing{
+        padding-top: 3rem;
+    }
+}
