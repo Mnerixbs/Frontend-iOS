@@ -4,13 +4,13 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Table of contents
 
-  - [The challenge](#Clipboard_landing_page_challenge)
+  - [The challenge](Clipboard_landing_page_challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#Htmlm, css, bootstrap, js)
-  - [What I learned](#i learn more about flex whit bootstrap)
-  - [Continued development](#That is the end proyect)
-  - [Useful resources](#useful-resources)
-- [Author](#Mario Alberto Rico Neri)
+- [My process](my-process)
+  - [Built with](Htmlm, css, bootstrap, js)
+  - [What I learned](i learn more about flex whit bootstrap)
+  - [Continued development](That is the end proyect)
+  - [Useful resources](useful-resources)
+- [Author](Mario Alberto Rico Neri)
 
