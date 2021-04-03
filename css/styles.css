@@ -6,6 +6,12 @@
     font-family: BJ-Bold;
     src: url(../fonts/BaiJamjuree-SemiBold.ttf);
 }
+.fontr{
+    font-family: BJ-regular; 
+}
+.fontb{
+    font-family: BJ-Bold;
+}
 .Strong-Cyan{
     color:  #26BAA4;
 }
@@ -33,12 +39,13 @@
 
 .header h1{
     padding-bottom: 1rem;
-    color: #636161;
-    font-family: BJ-Bold;    
+    color: #4B545C;
+    font-family: BJ-Bold;
 }
 .header p{
     padding-bottom: 1rem;
-    color: #a0a0a0;
+    color: #9EABB1;
+    font-family: BJ-regular;
 }
 .btn{    
     border-radius: 90px;
@@ -73,10 +80,11 @@
 }
 
 .main h1{
-    color: #4c4b4b;
+    color: #4B545C;
+    
  }
  .main p{
-     color: #a0a0a0;
+    color: #9EABB1;
  }
 .mac .container{
     max-width: 100%;
@@ -90,10 +98,10 @@
     margin-left: -40px;
 }
 .mac h4{
-    color: #4c4b4b;
+    color: #4B545C;
 }
 .mac p{
-    color: #a0a0a0;
+    color: #9EABB1;
 }
 .ipad{
     padding-top: 4rem;
@@ -107,10 +115,10 @@
     padding-bottom: 3rem;
 }
 .previews p{
-    color: #a0a0a0;
+    color: #9EABB1;
 }
 .previews h5{
-    color: #4c4b4b;
+    color: #4B545C;
 }
 .compani{
     padding-bottom: 4rem;
@@ -121,11 +129,36 @@
     padding-top: 4rem;
 }
 .clip h1{
-    color: #4c4b4b;
+    color: #4B545C;
  }
  .clip p{
-     color: #a0a0a0;
+    color: #9EABB1;
  }
+ .footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background: #4c4b4b2e;
+}
+ .logfoot{
+    width: 60px;
+    height: 60px;
+ }
+ .fab{
+     font-size: 40px;
+     margin: 10px;
+     color: #4c4b4b;
+ }
+ .fab:hover,
+ .footer a:hover{
+    color:  #26BAA4;
+ }
+ .footer a{
+    text-decoration: none;
+    color: #4c4b4b;
+    font-size: 23px;
+    font-family: BJ-regular;
+ }
+ 
 @media (max-width: 768px) { 
     .mac img{
         margin-left: 0px;
@@ -137,4 +170,10 @@
     .spacing{
         padding-top: 3rem;
     }
+    .logfoot{
+        margin-bottom: 10px;
+     }
+     .social{
+         margin-top: 10px;
+     }
 }
