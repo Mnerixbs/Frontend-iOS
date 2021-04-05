@@ -9,5 +9,5 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 - [My process
   - [Built with] Htmlm, css, bootstrap, js
 
-- [Author](Mario Alberto Rico Neri)
+- [Author] Mario Alberto Rico Neri
 
