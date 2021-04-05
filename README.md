@@ -4,13 +4,10 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Table of contents
 
-  - [The challenge](Clipboard_landing_page_challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](my-process)
-  - [Built with](Htmlm, css, bootstrap, js)
-  - [What I learned](i learn more about flex whit bootstrap)
-  - [Continued development](That is the end proyect)
-  - [Useful resources](useful-resources)
+  - [The challenge] Clipboard_landing_page_challenge  
+  - [Links] https://clipboard-landing-page-cv61qo90h-mnerixbs.vercel.app/
+- [My process
+  - [Built with] Htmlm, css, bootstrap, js
+
 - [Author](Mario Alberto Rico Neri)
 
