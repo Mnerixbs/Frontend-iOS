@@ -158,7 +158,9 @@
     font-size: 23px;
     font-family: BJ-regular;
  }
- 
+ .cambiosparagit{
+    font-family: 'Courier New', Courier, monospace;
+ }
 @media (max-width: 768px) { 
     .mac img{
         margin-left: 0px;
